@@ -6,6 +6,7 @@
     },
     "setting": {
         "urlCheck": false,
+        "enhance": true,
         "coverView": true,
         "es6": true,
         "postcss": true,
@@ -15,7 +16,6 @@
         "autoAudits": false,
         "uglifyFileName": false,
         "uploadWithSourceMap": true,
-        "enhance": true,
         "useMultiFrameRuntime": true,
         "showShadowRootInWxmlPanel": true,
         "packNpmManually": false,
@@ -35,7 +35,7 @@
     },
     "compileType": "miniprogram",
     "libVersion": "2.25.2",
-    "appid": "touristappid",
+    "appid": "wxc9830e425eb636c5",
     "projectname": "YouGou",
     "condition": {},
     "editorSetting": {

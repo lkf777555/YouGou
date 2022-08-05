@@ -30,6 +30,20 @@
 
 		}
 	],
+	"subPackages": [{
+		"root": "subpkg",
+		"pages": [
+
+			{
+				"path": "goods_detail/goods_detail",
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false
+				}
+
+			}
+		]
+	}],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "优购商城",
@@ -56,13 +70,13 @@
 				"pagePath": "pages/Cart/Cart",
 				"text": "购物车",
 				"iconPath": "static/check/cart.png",
-				"selectedIconPath": "static/check/cart.png"
+				"selectedIconPath": "static/checked/cart.png"
 			},
 			{
 				"pagePath": "pages/My/My",
 				"text": "我的",
 				"iconPath": "static/check/my.png",
-				"selectedIconPath": "static/check/my.png"
+				"selectedIconPath": "static/checked/my.png"
 			}
 		]
 	}
