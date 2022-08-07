@@ -41,6 +41,13 @@
 					"enablePullDownRefresh": false
 				}
 
+			}, {
+				"path": "goods_list/goods_list",
+				"style": {
+					"navigationBarTitleText": "",
+					"enablePullDownRefresh": false
+				}
+
 			}
 		]
 	}],
@@ -51,7 +58,6 @@
 		"backgroundColor": "#FFFFFF"
 
 	},
-	"uniIdRouter": {},
 	"tabBar": {
 		"selectedColor": "#C00000",
 		"list": [{
@@ -79,5 +85,6 @@
 				"selectedIconPath": "static/checked/my.png"
 			}
 		]
-	}
+	},
+	"uniIdRouter": {}
 }

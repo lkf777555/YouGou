@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lkf777555/YouGou#readme",
   "dependencies": {
-    "@escook/request-miniprogram": "^0.2.1"
+    "@escook/request-miniprogram": "^0.2.1",
+    "vue-router": "^3.5.4"
   }
 }
